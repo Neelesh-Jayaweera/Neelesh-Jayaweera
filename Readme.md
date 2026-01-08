@@ -1,4 +1,5 @@
-# Hi, I'm Neelesh Jayaweera
+### 🧑‍🔬 About Me
+I am a driven **Artificial Intelligence and Data Science** undergraduate at **IIT (Informatics Institute of Technology)**. I am passionate about uncovering insights within complex datasets and building predictive systems that solve real-world problems.
 
 ---
 
