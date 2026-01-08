@@ -28,9 +28,9 @@
 ---
 
 ### 📈 GitHub Insights
-![Your Stats](https://github-readme-stats.vercel.app/api?username=[Neelesh-Jayaweera]&show_icons=true&include_all_commits=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&include_all_commits=true&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://lk.linkedin.com/in/neelesh-jayaweera])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/neelesh-jayaweera)
