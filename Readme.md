@@ -39,4 +39,5 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
 ---
 
 ### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeleshjayaweera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/neelesh-jayaweera)
