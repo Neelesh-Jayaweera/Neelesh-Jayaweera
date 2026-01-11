@@ -3,11 +3,6 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
 
 ---
 
-### 🔗 Quick Links
-[**📂 View My Portfolio Website**](https://portfolio-dun-gamma-16.vercel.app/)
-
----
-
 ### 🎓 Education
 - **Major:** BSc in Artificial Intelligence and Data Science
 - **Focus Areas:** Machine Learning, Neural Networks, Statistical Modeling, and Big Data.
@@ -41,3 +36,4 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeleshjayaweera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/neelesh-jayaweera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%239b59b6.svg?style=for-the-badge&logo=konami&logoColor=white)](https://portfolio-dun-gamma-16.vercel.app/)
