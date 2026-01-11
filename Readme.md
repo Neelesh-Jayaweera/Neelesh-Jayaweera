@@ -32,10 +32,10 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=radical&count_private=true&cache_id=1" />
+      <img src="https://neelesh-jayaweera-readme.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=radical&count_private=true&cache_id=1" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh-Jayaweera&layout=compact&theme=radical&cache_id=1" />
+      <img src="https://neelesh-jayaweera-readme.vercel.app/api/top-langs/?username=Neelesh-Jayaweera&layout=compact&theme=radical&cache_id=1" />
     </td>
   </tr>
 </table>
