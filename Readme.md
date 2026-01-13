@@ -40,7 +40,7 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Neelesh-Jayaweera&theme=radical&hide_border=false" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelesh-Jayaweera&theme=radical&area=true" width="100%" />
     </td>
     <td width="50%">
        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,github,vscode&theme=dark" width="100%" />
