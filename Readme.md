@@ -1,6 +1,8 @@
 ### 🧑‍🔬 About Me
 I am a driven **Artificial Intelligence and Data Science** undergraduate at **IIT (Informatics Institute of Technology)**. I am passionate about uncovering insights within complex datasets and building predictive systems that solve real-world problems.
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Neelesh-Jayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="Neelesh-Jayaweera"/> </p>
+
 ---
 
 ### 🎓 Education
