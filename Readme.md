@@ -41,7 +41,7 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=gotham&hide_border=true"/>
+      <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=gotham&hide_border=true&count_private=true"/>
     </td>
     <td width="50%">
       <img src="https://github-readme-stats-sage-one-80.vercel.app/api/top-langs/?username=Neelesh-Jayaweera&layout=compact&theme=gotham&cache_id=1&count_private=true&hide_border=true" width="100%" />
