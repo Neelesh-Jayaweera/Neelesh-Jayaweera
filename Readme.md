@@ -41,18 +41,18 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-sage-one-80.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=radical&cache_id=1&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=gotham"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-sage-one-80.vercel.app/api/top-langs/?username=Neelesh-Jayaweera&layout=compact&theme=radical&cache_id=1&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-sage-one-80.vercel.app/api/top-langs/?username=Neelesh-Jayaweera&layout=compact&theme=gotham&cache_id=1&count_private=true" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dimesh-dev&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution+Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Neelesh-Jayaweera&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution+Graph"/>
     </td>
     <td width="50%">
-       <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,github,vscode&theme=dark" width="100%" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelesh-Jayaweera&theme=gotham&show_icons=true" alt="neelesh-jayaweera"/>
     </td>
   </tr>
 </table>
