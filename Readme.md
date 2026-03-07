@@ -41,10 +41,10 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=gotham"/>
+      <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Neelesh-Jayaweera&show_icons=true&theme=gotham&hide_border=true"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-sage-one-80.vercel.app/api/top-langs/?username=Neelesh-Jayaweera&layout=compact&theme=gotham&cache_id=1&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-sage-one-80.vercel.app/api/top-langs/?username=Neelesh-Jayaweera&layout=compact&theme=gotham&cache_id=1&count_private=true&hide_border=true" width="100%" />
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ I am a driven **Artificial Intelligence and Data Science** undergraduate at **II
     <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Neelesh-Jayaweera&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution+Graph"/>
     </td>
     <td width="50%">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelesh-Jayaweera&theme=gotham&show_icons=true" alt="neelesh-jayaweera"/>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelesh-Jayaweera&theme=gotham&show_icons=true&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true" alt="neelesh-jayaweera"/>
     </td>
   </tr>
 </table>
